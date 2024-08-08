@@ -1,6 +1,6 @@
 # Análise de Dados da Netflix
 
-## Descriçã
+## DescriçãO
 Este projeto realiza uma análise detalhada do catálogo de filmes e séries de TV disponíveis na Netflix. Através da manipulação e visualização de dados, exploramos várias características do conteúdo, como a quantidade de títulos adicionados ao longo dos anos, a popularidade de diretores e a duração média de filmes e séries. O objetivo é extrair insights valiosos sobre a plataforma e praticar habilidades de ciência de dados e visualização.
 
 ## Funcionalidades
@@ -14,9 +14,9 @@ Este projeto realiza uma análise detalhada do catálogo de filmes e séries de 
 ## Conclusão
 
 
-Como podemos ver, as séries de TV na Netflix com apenas uma temporada são claramente a maioria.
+As séries de TV na Netflix com apenas uma temporada são a maioria na plataforma.
 
-A análise deste conjunto de dados me ajudou a aprimorar minhas habilidades no mundo da ciência de dados e da visualização de dados. Se você gostou deste notebook, por favor, deixe seu voto positivo e, se tiver algum comentário, sinta-se à vontade para postá-lo. Isso me ajudará a melhorar e a discutir com pessoas que estão mais envolvidas neste mundo.
+A análise deste conjunto de dados me ajudou a aprimorar minhas habilidades no mundo da ciência de dados e da visualização de dados.
 
 ## Requisitos
 
@@ -36,13 +36,16 @@ A análise deste conjunto de dados me ajudou a aprimorar minhas habilidades no m
 
 2. Instale as dependências necessárias:
 
-```bash
-pip install pandas matplotlib seaborn```
+   ```bash
+   pip install pandas matplotlib seaborn```
+
 
 3. Abra o notebook Jupyter e execute as células para gerar as análises e visualizações:
 
-```bash
-jupyter notebook```
+   ```bash
+   jupyter notebook```
+
+
 
 4. Navegue até o diretório do projeto e abra o arquivo com final .ipynb.
 
